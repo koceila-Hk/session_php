@@ -23,6 +23,7 @@
         <?php else : ?>
             <a href="connexion.php">Connexion</a>
         <?php endif; ?>
+        <a href="register.php">Register</a>
     </nav>
 </html>    
 </body>
