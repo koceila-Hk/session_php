@@ -15,6 +15,7 @@
 
         <a href="accueil.php">Accueil</a>
         <a href="about.php">A propos</a>
+        <a href="liste-article.php">Articles</a>
 
         <?php if (!empty($_SESSION['pseudo'])) : ?>
             <a href="deconnexion.php">Déconnexion</a>
